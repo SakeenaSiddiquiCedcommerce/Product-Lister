@@ -1,0 +1,912 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Lister Etsy 1.0.0\n"
+"POT-Creation-Date: 2017-10-24 11:33+0530\n"
+"PO-Revision-Date: 2017-10-24 11:33+0530\n"
+"Last-Translator: \n"
+"Language-Team: Cedcommerce <plugins@cedcommerce.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/ced_umb_core_functions.php:36
+msgid "Meta Field Key"
+msgstr ""
+
+#: includes/ced_umb_core_functions.php:37
+msgid "Meta Field Value"
+msgstr ""
+
+#: includes/ced_umb_core_functions.php:326
+#, php-format
+msgid ""
+"Product Lister Etsy requires WooCommerce to be installed and active. You can "
+"download %s here."
+msgstr ""
+
+#: marketplaces/etsy/class-etsy.php:122
+msgid ""
+"Maximum Upload Limit Reached! Upgrade to premium version to upload more "
+"products "
+msgstr ""
+
+#: marketplaces/etsy/class-etsy.php:122
+msgid "Click Here"
+msgstr ""
+
+#: marketplaces/etsy/class-etsy.php:122
+msgid " to Upgrade"
+msgstr ""
+
+#: marketplaces/etsy/class-etsy.php:141
+msgid "Share your E-mail to get discount!"
+msgstr ""
+
+#: marketplaces/etsy/class-etsy.php:144
+msgid "Enter you E-mail Id"
+msgstr ""
+
+#: marketplaces/etsy/class-etsy.php:145
+msgid "SHARE"
+msgstr ""
+
+#: marketplaces/etsy/class-etsy.php:247
+msgid "Please Select Products to Remove"
+msgstr ""
+
+#: marketplaces/etsy/class-etsy.php:299
+msgid "Please Select Products to Deactivate"
+msgstr ""
+
+#: marketplaces/etsy/class-etsy.php:423
+msgid "Please Select Products to Update"
+msgstr ""
+
+#: marketplaces/etsy/class-etsy.php:453
+msgid "Enter App Key String"
+msgstr ""
+
+#: marketplaces/etsy/class-etsy.php:458
+msgid "Enter App Shared String"
+msgstr ""
+
+#: marketplaces/etsy/class-etsy.php:463
+msgid "Enter Your Shop Name"
+msgstr ""
+
+#: marketplaces/etsy/class-etsy.php:468
+msgid "Enter Your User Name"
+msgstr ""
+
+#: marketplaces/etsy/class-etsy.php:473
+msgid "Select Product State"
+msgstr ""
+
+#: marketplaces/etsy/class-etsy.php:477
+msgid "Save Credentials"
+msgstr ""
+
+#: marketplaces/etsy/class-etsy.php:482
+msgid "Authorize Your Account"
+msgstr ""
+
+#: marketplaces/etsy/class-etsy.php:514 admin/pages/shop_settings.php:33
+msgid "--Select--"
+msgstr ""
+
+#: marketplaces/etsy/class-etsy.php:514
+msgid "Draft"
+msgstr ""
+
+#: marketplaces/etsy/class-etsy.php:514
+msgid "Active"
+msgstr ""
+
+#: marketplaces/etsy/class-etsy.php:569
+#: admin/helper/class-ced-umb-extended-manager.php:209
+#, php-format
+msgid "Please enter in decimal (%s) format without thousand separators."
+msgstr ""
+
+#: marketplaces/etsy/class-etsy.php:571
+#: admin/helper/class-ced-umb-extended-manager.php:211
+#, php-format
+msgid ""
+"Please enter in monetary decimal (%s) format without thousand separators and "
+"currency symbols."
+msgstr ""
+
+#: marketplaces/etsy/class-etsy.php:572
+#: admin/helper/class-ced-umb-extended-manager.php:212
+msgid "Please enter in country code with two capital letters."
+msgstr ""
+
+#: marketplaces/etsy/class-etsy.php:573
+#: admin/helper/class-ced-umb-extended-manager.php:213
+msgid "Please enter in a value less than the regular price."
+msgstr ""
+
+#: marketplaces/etsy/class-etsy.php:577
+#: admin/helper/class-ced-umb-extended-manager.php:217
+msgid "Import"
+msgstr ""
+
+#: marketplaces/etsy/class-etsy.php:578
+#: admin/helper/class-ced-umb-extended-manager.php:218
+msgid "Export"
+msgstr ""
+
+#: marketplaces/etsy/class-etsy.php:650 admin/partials/profile-view.php:214
+msgid "Etsy Category"
+msgstr ""
+
+#: marketplaces/etsy/class-etsy.php:653
+msgid ""
+"Identify the category specification. There is only one category can be used "
+"for any single item. NOTE: Once an item is created, this information cannot "
+"be updated."
+msgstr ""
+
+#: marketplaces/etsy/partials/class-ajax-handler.php:33
+#: admin/partials/profile-view.php:410
+msgid "Update"
+msgstr ""
+
+#: marketplaces/etsy/partials/class-ajax-handler.php:34
+msgid "Remove from Etsy"
+msgstr ""
+
+#: marketplaces/etsy/partials/class-ajax-handler.php:35
+msgid "Deactivate"
+msgstr ""
+
+#: marketplaces/etsy/partials/class-ajax-handler.php:108
+msgid "Select the Active shop"
+msgstr ""
+
+#: marketplaces/etsy/partials/class-ajax-handler.php:167
+msgid "For Variation"
+msgstr ""
+
+#: marketplaces/etsy/partials/etsy-payment-config.php:10
+msgid "Payment Template"
+msgstr ""
+
+#: marketplaces/etsy/partials/etsy-payment-config.php:11
+msgid "This section is for providing Payment Template details for ETSY shop."
+msgstr ""
+
+#: marketplaces/etsy/partials/etsy-payment-config.php:100
+msgid "Payment Template already created"
+msgstr ""
+
+#: marketplaces/etsy/partials/etsy-payment-config.php:106
+msgid "Please create a Payment Template on Etsy"
+msgstr ""
+
+#: marketplaces/etsy/partials/etsy-payment-config.php:113
+msgid "Unable to connect to the API. Please try again later"
+msgstr ""
+
+#: marketplaces/etsy/partials/etsy-payment-config.php:131
+#: marketplaces/etsy/partials/etsy-shipping-config.php:281
+msgid "Please Authorize your store"
+msgstr ""
+
+#: marketplaces/etsy/partials/class-etsy-upload.php:46
+msgid "Category not Assigned"
+msgstr ""
+
+#: marketplaces/etsy/partials/class-etsy-upload.php:53
+#: marketplaces/etsy/partials/class-etsy-upload.php:59
+msgid "Manufacturing Year not Provided"
+msgstr ""
+
+#: marketplaces/etsy/partials/class-etsy-upload.php:66
+#: marketplaces/etsy/partials/class-etsy-upload.php:72
+msgid "Who made the product field is not Provided"
+msgstr ""
+
+#: marketplaces/etsy/partials/class-etsy-upload.php:90
+msgid "Profile Not Assigned"
+msgstr ""
+
+#: marketplaces/etsy/partials/class-etsy-upload.php:136
+msgid "Maximum Upload limit Reached. Switch to Premium version to Continue"
+msgstr ""
+
+#: marketplaces/etsy/partials/class-etsy-upload.php:167
+msgid "Product "
+msgstr ""
+
+#: marketplaces/etsy/partials/class-etsy-upload.php:167
+msgid "not ready to be uploaded"
+msgstr ""
+
+#: marketplaces/etsy/partials/etsy-shipping-config.php:126
+msgid "Shipping Template"
+msgstr ""
+
+#: marketplaces/etsy/partials/etsy-shipping-config.php:127
+msgid "This section is for providing shipping details for product listing."
+msgstr ""
+
+#: marketplaces/etsy/partials/etsy-shipping-config.php:178
+msgid "Select Shipping Template"
+msgstr ""
+
+#: marketplaces/etsy/partials/etsy-shipping-config.php:181
+#: marketplaces/etsy/partials/etsy-shipping-config.php:214
+msgid "--SELECT--"
+msgstr ""
+
+#: marketplaces/etsy/partials/etsy-shipping-config.php:207
+msgid "Shipping Title"
+msgstr ""
+
+#: marketplaces/etsy/partials/etsy-shipping-config.php:211
+msgid "Country"
+msgstr ""
+
+#: marketplaces/etsy/partials/etsy-shipping-config.php:228
+msgid "Processing Days"
+msgstr ""
+
+#: marketplaces/etsy/partials/etsy-shipping-config.php:233
+msgid "Cost"
+msgstr ""
+
+#: marketplaces/etsy/partials/etsy-shipping-config.php:249
+msgid ""
+"Please fill in the above configuration details to create a shipping template"
+msgstr ""
+
+#: marketplaces/etsy/partials/etsy-shipping-config.php:264
+msgid "Save Details"
+msgstr ""
+
+#: marketplaces/etsy/partials/ced-etsy-cat-mapping.php:7
+msgid "Category Fetched successfully"
+msgstr ""
+
+#: marketplaces/etsy/partials/ced-etsy-cat-mapping.php:15
+msgid "ETSY Category"
+msgstr ""
+
+#: marketplaces/etsy/partials/ced-etsy-cat-mapping.php:19
+msgid "Fetch Categories"
+msgstr ""
+
+#: marketplaces/etsy/partials/ced-etsy-cat-mapping.php:32
+msgid "Root Categories"
+msgstr ""
+
+#: marketplaces/etsy/partials/ced-etsy-cat-mapping.php:61
+#: marketplaces/etsy/partials/ced-etsy-cat-mapping.php:70
+msgid "Please fetch the Categories"
+msgstr ""
+
+#: admin/class-ced-umb-admin.php:122
+msgid ""
+"Is this not the plugin you were looking for. Help us to make it one for you! "
+msgstr ""
+
+#: admin/class-ced-umb-admin.php:131
+msgid "It's not for Me!"
+msgstr ""
+
+#: admin/class-ced-umb-admin.php:137
+msgid "Was the plugin complex to use?"
+msgstr ""
+
+#: admin/class-ced-umb-admin.php:143
+msgid "Did you find any Bug?"
+msgstr ""
+
+#: admin/class-ced-umb-admin.php:150
+msgid "Skip"
+msgstr ""
+
+#: admin/class-ced-umb-admin.php:151
+msgid "Submit"
+msgstr ""
+
+#: admin/class-ced-umb-admin.php:224
+msgid "Profile not selected"
+msgstr ""
+
+#: admin/helper/class-menu-page-manager.php:62
+msgid "manage_woocommerce"
+msgstr ""
+
+#: admin/helper/class-menu-page-manager.php:64 admin/pages/marketplaces.php:61
+#: admin/pages/header.php:17
+msgid "Configuration"
+msgstr ""
+
+#: admin/helper/class-menu-page-manager.php:66
+#: admin/pages/shop_settings.php:53 admin/pages/header.php:19
+msgid "Shop Settings"
+msgstr ""
+
+#: admin/helper/class-menu-page-manager.php:68
+#: admin/pages/etsy_extension_upgrade.php:31 admin/pages/header.php:21
+msgid "Category Mapping"
+msgstr ""
+
+#: admin/helper/class-menu-page-manager.php:70
+#: admin/helper/class-ced-umb-product-listing.php:89
+#: admin/helper/class-ced-umb-product-listing.php:442
+#: admin/pages/header.php:23 admin/pages/profile.php:22
+msgid "Profile"
+msgstr ""
+
+#: admin/helper/class-menu-page-manager.php:72 admin/pages/header.php:25
+#: admin/pages/manage_products.php:99
+msgid "Manage Products"
+msgstr ""
+
+#: admin/helper/class-menu-page-manager.php:74
+#: admin/pages/etsy_extension_upgrade.php:12
+msgid "Upgrade to Pro!"
+msgstr ""
+
+#: admin/helper/class-ced-umb-profile-listing.php:78
+#: admin/helper/class-ced-umb-product-listing.php:88
+#: admin/pages/profile.php:132
+msgid "Name"
+msgstr ""
+
+#: admin/helper/class-ced-umb-profile-listing.php:79
+msgid "Marketplace"
+msgstr ""
+
+#: admin/helper/class-ced-umb-profile-listing.php:80
+#: admin/pages/profile.php:134
+msgid "Status"
+msgstr ""
+
+#: admin/helper/class-ced-umb-profile-listing.php:81
+msgid "Action"
+msgstr ""
+
+#: admin/helper/class-ced-umb-profile-listing.php:150
+#: admin/helper/class-ced-umb-profile-listing.php:153
+msgid "No profile found!"
+msgstr ""
+
+#: admin/helper/class-ced-umb-profile-listing.php:196
+#: admin/helper/class-ced-umb-product-listing.php:440
+msgid "Edit"
+msgstr ""
+
+#: admin/helper/class-ced-umb-product-listing.php:87
+msgid "Image"
+msgstr ""
+
+#: admin/helper/class-ced-umb-product-listing.php:90
+msgid "Selling Price"
+msgstr ""
+
+#: admin/helper/class-ced-umb-product-listing.php:91
+msgid "Inventory"
+msgstr ""
+
+#: admin/helper/class-ced-umb-product-listing.php:92
+msgid "Ready To Upload"
+msgstr ""
+
+#: admin/helper/class-ced-umb-product-listing.php:93
+#: admin/pages/manage_products.php:158
+msgid "Product Status"
+msgstr ""
+
+#: admin/helper/class-ced-umb-product-listing.php:110
+msgid "Upload"
+msgstr ""
+
+#: admin/helper/class-ced-umb-product-listing.php:119
+msgid "Select bulk action"
+msgstr ""
+
+#: admin/helper/class-ced-umb-product-listing.php:121
+msgid "Bulk Actions"
+msgstr ""
+
+#: admin/helper/class-ced-umb-product-listing.php:131
+msgid "Apply"
+msgstr ""
+
+#: admin/helper/class-ced-umb-product-listing.php:440
+msgid "Edit this item"
+msgstr ""
+
+#: admin/helper/class-ced-umb-product-listing.php:442
+msgid "Assign profile to this item"
+msgstr ""
+
+#: admin/helper/class-ced-umb-product-listing.php:446
+msgid "End Auction for this item"
+msgstr ""
+
+#: admin/helper/class-ced-umb-product-listing.php:446
+msgid "End Auction"
+msgstr ""
+
+#: admin/helper/class-ced-umb-product-listing.php:508
+#, php-format
+msgid "&#8220;%s&#8221; (Edit)"
+msgstr ""
+
+#: admin/helper/class-ced-umb-product-listing.php:529
+#, php-format
+msgid "%s is currently editing"
+msgstr ""
+
+#: admin/helper/class-ced-umb-product-listing.php:627
+msgid "Not Assigned"
+msgstr ""
+
+#: admin/helper/class-product-fields.php:65
+msgid "ETSY"
+msgstr ""
+
+#: admin/helper/class-product-fields.php:163
+msgid "Who Made"
+msgstr ""
+
+#: admin/helper/class-product-fields.php:163
+#: admin/helper/class-product-fields.php:177
+#: admin/helper/class-product-fields.php:190
+#: admin/partials/umb_product_fields.php:99
+msgid "Required"
+msgstr ""
+
+#: admin/helper/class-product-fields.php:165
+msgid "Specifies Who made the Product."
+msgstr ""
+
+#: admin/helper/class-product-fields.php:177
+msgid "Product Supply"
+msgstr ""
+
+#: admin/helper/class-product-fields.php:179
+msgid "Supply available"
+msgstr ""
+
+#: admin/helper/class-product-fields.php:190
+msgid "Manufacturing Year"
+msgstr ""
+
+#: admin/helper/class-product-fields.php:192
+msgid "Select manufacture time for the product"
+msgstr ""
+
+#: admin/helper/class-product-fields.php:212
+msgid "Product Tags"
+msgstr ""
+
+#: admin/helper/class-product-fields.php:214
+msgid ""
+"Specifies the Product Related Tags. Enter multiple tags comma ( , ) seperated"
+msgstr ""
+
+#: admin/helper/class-product-fields.php:224
+msgid "Preferred Audience (Recipient)"
+msgstr ""
+
+#: admin/helper/class-product-fields.php:226
+msgid "Specify the Preferred Audience or Recipient to use the product."
+msgstr ""
+
+#: admin/helper/class-product-fields.php:237
+msgid "Occasion"
+msgstr ""
+
+#: admin/helper/class-product-fields.php:239
+msgid "Specify the Occasion."
+msgstr ""
+
+#: admin/helper/class-product-fields.php:335
+msgid "--select--"
+msgstr ""
+
+#: admin/helper/class-feed-manager.php:67
+msgid ""
+"either bulk-action/marketplace/products missing for performing the bulk "
+"action, please try again!"
+msgstr ""
+
+#: admin/helper/class-feed-manager.php:102
+msgid ""
+"either marketplace or products missing for performing the product upload, "
+"please try again!"
+msgstr ""
+
+#: admin/helper/class-feed-manager.php:133
+#: admin/helper/class-feed-manager.php:151
+msgid "An unexpected error occured, please try again!"
+msgstr ""
+
+#: admin/helper/class-feed-manager.php:139
+msgid ""
+"Class missing to perform operation, please check if extension configured "
+"successfully!"
+msgstr ""
+
+#: admin/helper/class-feed-manager.php:145
+msgid "Please check if etsy is configured correctly"
+msgstr ""
+
+#: admin/pages/etsy_extension_upgrade.php:13
+msgid "Get Access to all features with one "
+msgstr ""
+
+#: admin/pages/etsy_extension_upgrade.php:13
+msgid "Click"
+msgstr ""
+
+#: admin/pages/etsy_extension_upgrade.php:19
+msgid "Features"
+msgstr ""
+
+#: admin/pages/etsy_extension_upgrade.php:20
+msgid "Product Lister Etsy"
+msgstr ""
+
+#: admin/pages/etsy_extension_upgrade.php:21
+msgid "Woocommerce Etsy Integration ( Pro Version )"
+msgstr ""
+
+#: admin/pages/etsy_extension_upgrade.php:26
+msgid "Shop Support"
+msgstr ""
+
+#: admin/pages/etsy_extension_upgrade.php:27
+msgid "Single Etsy Shop Support"
+msgstr ""
+
+#: admin/pages/etsy_extension_upgrade.php:28
+msgid "Multiple Etsy Shop Support"
+msgstr ""
+
+#: admin/pages/etsy_extension_upgrade.php:36
+msgid "Profile Creation"
+msgstr ""
+
+#: admin/pages/etsy_extension_upgrade.php:41
+msgid "Bulk Profile Assignment"
+msgstr ""
+
+#: admin/pages/etsy_extension_upgrade.php:46
+msgid "Product Upload"
+msgstr ""
+
+#: admin/pages/etsy_extension_upgrade.php:47
+msgid "5 Products"
+msgstr ""
+
+#: admin/pages/etsy_extension_upgrade.php:48
+msgid "Umlimited Product Upload"
+msgstr ""
+
+#: admin/pages/etsy_extension_upgrade.php:51
+msgid "Simple Product Upload"
+msgstr ""
+
+#: admin/pages/etsy_extension_upgrade.php:56
+msgid "Variable Product Upload"
+msgstr ""
+
+#: admin/pages/etsy_extension_upgrade.php:61
+msgid "Bulk Product Upload"
+msgstr ""
+
+#: admin/pages/etsy_extension_upgrade.php:66
+msgid "Inventory & Price Syncing"
+msgstr ""
+
+#: admin/pages/etsy_extension_upgrade.php:71
+msgid "Order Management"
+msgstr ""
+
+#: admin/pages/shop_settings.php:28
+msgid "Select Active Shop"
+msgstr ""
+
+#: admin/pages/shop_settings.php:47
+msgid "Save Active Shop"
+msgstr ""
+
+#: admin/pages/shop_settings.php:78
+msgid "Please fill in the Configuration deatails to get furthur settings"
+msgstr ""
+
+#: admin/pages/category_mapping.php:35 admin/pages/manage_products.php:191
+msgid "You need to enable the Etsy from the CONFIGURATION tab."
+msgstr ""
+
+#: admin/pages/marketplaces.php:55
+msgid "Account Authorise successfully"
+msgstr ""
+
+#: admin/pages/manage_products.php:30
+msgid "Please select the bulk actions to perform action!"
+msgstr ""
+
+#: admin/pages/manage_products.php:37
+msgid "Any marketplace is not activated!"
+msgstr ""
+
+#: admin/pages/manage_products.php:44
+msgid "Please select products to perform bulk action!"
+msgstr ""
+
+#: admin/pages/manage_products.php:62
+msgid "Unexpected error encountered, please try again!"
+msgstr ""
+
+#: admin/pages/manage_products.php:118
+msgid "Search by Product Name"
+msgstr ""
+
+#: admin/pages/manage_products.php:119
+msgid "Search by Sku"
+msgstr ""
+
+#: admin/pages/manage_products.php:130
+msgid "Uploaded"
+msgstr ""
+
+#: admin/pages/manage_products.php:131
+msgid "Not Uploaded"
+msgstr ""
+
+#: admin/pages/manage_products.php:167
+msgid "Product Category"
+msgstr ""
+
+#: admin/pages/manage_products.php:175
+msgid "Filter"
+msgstr ""
+
+#: admin/pages/profile.php:23 admin/pages/profile.php:218
+msgid "Profiles"
+msgstr ""
+
+#: admin/pages/profile.php:65
+msgid "No profiles avaliable."
+msgstr ""
+
+#: admin/pages/profile.php:82
+msgid "enable"
+msgstr ""
+
+#: admin/pages/profile.php:84
+msgid "disable"
+msgstr ""
+
+#: admin/pages/profile.php:158
+msgid "Enable"
+msgstr ""
+
+#: admin/pages/profile.php:159
+msgid "Disable"
+msgstr ""
+
+#: admin/pages/profile.php:160
+msgid "Delete"
+msgstr ""
+
+#: admin/pages/profile.php:219
+msgid "Add Profile"
+msgstr ""
+
+#: admin/pages/profile.php:264
+msgid "Profile Deleted Successfully."
+msgstr ""
+
+#: admin/pages/profile.php:270 admin/pages/profile.php:303
+#: admin/pages/profile.php:343 admin/pages/profile.php:383
+msgid "Some Error Encountered."
+msgstr ""
+
+#: admin/pages/profile.php:297
+msgid "Profiles Deleted Successfully."
+msgstr ""
+
+#: admin/pages/profile.php:312
+msgid "Please select atleast one profile to delete it."
+msgstr ""
+
+#: admin/pages/profile.php:337
+msgid "Profiles Enable Successfully."
+msgstr ""
+
+#: admin/pages/profile.php:352
+msgid "Please select atleast one profile to enable it."
+msgstr ""
+
+#: admin/pages/profile.php:377
+msgid "Profiles Disable Successfully."
+msgstr ""
+
+#: admin/pages/profile.php:392
+msgid "Please select atleast one profile to disable it."
+msgstr ""
+
+#: admin/partials/save-profile-view-data.php:12
+msgid "Please fill profile name first."
+msgstr ""
+
+#: admin/partials/save-profile-view-data.php:44
+msgid "Profile Updated Successfully."
+msgstr ""
+
+#: admin/partials/save-profile-view-data.php:60
+msgid "Profile Created Successfully."
+msgstr ""
+
+#: admin/partials/profile-view.php:53
+msgid "Steps to Follow"
+msgstr ""
+
+#: admin/partials/profile-view.php:57
+msgid "Click to Select Metakeys"
+msgstr ""
+
+#: admin/partials/profile-view.php:57
+msgid "Select MetaKeys"
+msgstr ""
+
+#: admin/partials/profile-view.php:58
+msgid "Basic Details"
+msgstr ""
+
+#: admin/partials/profile-view.php:59
+msgid "Required fields"
+msgstr ""
+
+#: admin/partials/profile-view.php:60
+msgid "Category"
+msgstr ""
+
+#: admin/partials/profile-view.php:65
+msgid ""
+"Profile can be created to assign similar type of values and categories to "
+"multiple products."
+msgstr ""
+
+#: admin/partials/profile-view.php:66
+msgid ""
+"1. Use \"Select Product And Corresponding MetaKeys\" section to select the "
+"metakeys of product you consider can be useful in mapping. Once you select "
+"the metakeys click on UPDATE. This step is not always necessary. If you have "
+"done it before, you can skip it for the next time you create a profile."
+msgstr ""
+
+#: admin/partials/profile-view.php:67
+msgid ""
+"2. Under \"BASIC SETTINGS\" tab, you have option to setup basic information "
+"for your profile. Here you can give your profile a name and enable/disable "
+"it."
+msgstr ""
+
+#: admin/partials/profile-view.php:68
+msgid ""
+"3. Under \"REQUIRED FIELDS\" sections, you have to fill in all the details "
+"that are mandatory for the products."
+msgstr ""
+
+#: admin/partials/profile-view.php:69
+msgid ""
+"4. After Required Fields its time to select the ETSY category from \"ETSY "
+"CATEGORY\" section. Once you select the category you will get fields for "
+"variation products that need to be filled in if you wish to list variation "
+"products on ETSY"
+msgstr ""
+
+#: admin/partials/profile-view.php:70
+msgid ""
+"5. Once done with above steps you can fill in the Extra information that can "
+"be sent with the products under \"EXTRA FIELDS\" section."
+msgstr ""
+
+#: admin/partials/profile-view.php:71
+msgid "6. If you have read above instructions carefully, you are good to go."
+msgstr ""
+
+#: admin/partials/profile-view.php:104
+msgid "Basic Settings"
+msgstr ""
+
+#: admin/partials/profile-view.php:113
+msgid "Profile Name"
+msgstr ""
+
+#: admin/partials/profile-view.php:116
+msgid "Enter name for Profile"
+msgstr ""
+
+#: admin/partials/profile-view.php:125
+msgid "Enable Profile"
+msgstr ""
+
+#: admin/partials/profile-view.php:140
+#: admin/partials/umb_product_fields.php:21
+msgid "Required Fields"
+msgstr ""
+
+#: admin/partials/profile-view.php:146 admin/partials/profile-view.php:220
+#: admin/partials/profile-view.php:320
+msgid "Something went wrong please try again later!"
+msgstr ""
+
+#: admin/partials/profile-view.php:294
+msgid "Category Specific"
+msgstr ""
+
+#: admin/partials/profile-view.php:301
+msgid "Select Category to get the category Specific attributes"
+msgstr ""
+
+#: admin/partials/profile-view.php:313
+#: admin/partials/umb_product_fields.php:161
+msgid "Extra Fields"
+msgstr ""
+
+#: admin/partials/profile-view.php:391
+msgid "Select Product MetaKeys"
+msgstr ""
+
+#: admin/partials/profile-view.php:397
+msgid "Type Product Name Here"
+msgstr ""
+
+#: admin/partials/profile-view.php:412
+msgid "Save Profile"
+msgstr ""
+
+#: admin/partials/umb_product_fields.php:35
+msgid "Variation Title"
+msgstr ""
+
+#: admin/partials/umb_product_fields.php:37
+msgid "This Will Be Your Variation Name In Your MarketPlace."
+msgstr ""
+
+#: admin/partials/umb_product_fields.php:61
+msgid "etsy Subcategory"
+msgstr ""
+
+#: admin/partials/umb_product_fields.php:121
+msgid "Framework Specific Fields"
+msgstr ""
+
+#: admin/partials/html-profile.php:6
+msgid "Select profile for this product"
+msgstr ""
+
+#: admin/partials/html-profile.php:7
+msgid "Available Profile"
+msgstr ""
+
+#: admin/partials/html-profile.php:18
+msgid "select"
+msgstr ""
+
+#: admin/partials/html-profile.php:34
+msgid "Save profile"
+msgstr ""
+
+#: admin/partials/html-profile.php:38
+msgid ""
+"No any profile available to assign, please create a profile and came back to "
+"assing!"
+msgstr ""
